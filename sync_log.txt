@@ -146,3 +146,13 @@ To https://github.com/harshakalluri1403/Leet-Code.git
    48eda9e..a9d023d  master -> master
 Sync completed on 24-10-2024 16:48:01.36 
 Starting Git Sync on 24-10-2024 16:48:42.63 
+warning: in the working copy of 'sync_log.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Python/sync_log.txt', LF will be replaced by CRLF the next time Git touches it
+[master ca33500] Auto-sync on 24-10-2024 16:48:42.68
+ 2 files changed, 155 insertions(+)
+ create mode 100644 Python/sync_log.txt
+git: 'credential-manager-core' is not a git command. See 'git --help'.
+To https://github.com/harshakalluri1403/Leet-Code.git
+   a9d023d..ca33500  master -> master
+Sync completed on 24-10-2024 16:48:44.78 
+Starting Git Sync on 24-10-2024 16:49:33.32 
