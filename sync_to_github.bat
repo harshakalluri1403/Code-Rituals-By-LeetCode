@@ -7,6 +7,13 @@ cd C:\Users\harsh\Desktop\Leetcode
 REM Log start time
 echo Starting Git Sync on %date% %time% >> sync_log.txt
 
+REM Create .gitkeep in empty directories
+for /d %%d in (*) do (
+    if not exist "%%d\*" (
+        echo. > "%%d\.gitkeep"
+    )
+)
+
 REM Check for changes and add all files and directories
 git add -A >> sync_log.txt 2>&1
 
