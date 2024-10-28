@@ -227,3 +227,12 @@ git: 'credential-manager-core' is not a git command. See 'git --help'.
 send-pack: unexpected disconnect while reading sideband packet
 fatal: the remote end hung up unexpectedly
 Starting Git Sync on 27-10-2024  1:41:28.40 
+warning: in the working copy of 'sync_log.txt', LF will be replaced by CRLF the next time Git touches it
+[master 909247e] Auto-sync on 27-10-2024  1:41:28.64
+ 2 files changed, 7 insertions(+)
+ rename sync_to_github.bat => sync.bat (100%)
+git: 'credential-manager-core' is not a git command. See 'git --help'.
+To https://github.com/harshakalluri1403/Leet-Code.git
+   94c4acd..909247e  master -> master
+Sync completed on 27-10-2024  1:41:31.11 
+Starting Git Sync on 28-10-2024 17:46:25.34 
