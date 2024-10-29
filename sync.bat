@@ -2,7 +2,7 @@
 setlocal
 
 REM Change to your Leetcode directory
-cd C:\Users\harsh\Code Rituals\Leetcode
+cd C:\Users\harsh\Code-Rituals\Leetcode
 
 REM Log start time
 echo Starting Git Sync on %date% %time% >> sync_log.txt
