@@ -249,3 +249,8 @@ warning: in the working copy of 'sync_log.txt', LF will be replaced by CRLF the 
  2 files changed, 9 insertions(+), 1 deletion(-)
 git: 'credential-manager-core' is not a git command. See 'git --help'.
 Starting Git Sync on 29-10-2024 21:12:40.77 
+warning: in the working copy of 'sync_log.txt', LF will be replaced by CRLF the next time Git touches it
+[master ec49060] Auto-sync on 29-10-2024 21:12:41.10
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+git: 'credential-manager-core' is not a git command. See 'git --help'.
+Starting Git Sync on 29-10-2024 21:13:22.69 
