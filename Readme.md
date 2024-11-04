@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Welcome to my LeetCode solutions repository! This project contains my solutions to various LeetCode questions, which I have solved and automatically pushed using **Leethubv3**. I aim to solve all the problems available on the platform.
+Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode questions, which I have solved and automatically pushed using **Leethubv3**. I aim to solve all the problems available on the platform.
 
 ## Languages Used
 
