@@ -360,3 +360,14 @@ To https://github.com/harshakalluri1403/Leet-Code.git
    345046f..0555d4d  master -> master
 Sync completed on 04-11-2024 16:00:25.49 
 Starting Git Sync on 04-11-2024 16:00:53.86 
+warning: in the working copy of 'sync_log.txt', LF will be replaced by CRLF the next time Git touches it
+[master dbd48ad] Auto-sync on 04-11-2024 16:00:53.91
+ 2 files changed, 13 insertions(+)
+ rename SQL/{ => Leetcode}/1757. Recyclable and Low Fat Products.sql (100%)
+git: 'credential-manager-core' is not a git command. See 'git --help'.
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/harshakalluri1403/Code-Rituals.git        
+To https://github.com/harshakalluri1403/Leet-Code.git
+   0555d4d..dbd48ad  master -> master
+Sync completed on 04-11-2024 16:00:56.05 
+Starting Git Sync on 04-11-2024 16:16:49.31 
