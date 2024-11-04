@@ -382,3 +382,14 @@ To https://github.com/harshakalluri1403/Leet-Code.git
    dbd48ad..d6f40be  master -> master
 Sync completed on 04-11-2024 16:16:51.55 
 Starting Git Sync on 04-11-2024 17:25:28.81 
+warning: in the working copy of 'sync_log.txt', LF will be replaced by CRLF the next time Git touches it
+[master 11e4fb1] Auto-sync on 04-11-2024 17:25:28.89
+ 2 files changed, 14 insertions(+)
+ create mode 100644 SQL/Leetcode/595. Big Countries.sql
+git: 'credential-manager-core' is not a git command. See 'git --help'.
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/harshakalluri1403/Code-Rituals.git        
+To https://github.com/harshakalluri1403/Leet-Code.git
+   d6f40be..11e4fb1  master -> master
+Sync completed on 04-11-2024 17:25:31.63 
+Starting Git Sync on 04-11-2024 18:03:52.45 
