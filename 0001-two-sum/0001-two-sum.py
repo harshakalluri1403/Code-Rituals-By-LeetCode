@@ -1,6 +1,6 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        num_to_index = {}  # Create a dictionary to store numbers and their indices
+        num_to_index = {} 
         
         for index, num in enumerate(nums):
             complement = target - num  # Calculate the required complement
