@@ -315,3 +315,14 @@ To https://github.com/harshakalluri1403/Leet-Code.git
    5daf3d3..14063cd  master -> master
 Sync completed on 02-11-2024 22:06:31.00 
 Starting Git Sync on 02-11-2024 22:07:19.81 
+warning: in the working copy of 'sync_log.txt', LF will be replaced by CRLF the next time Git touches it
+[master 6552e66] Auto-sync on 02-11-2024 22:07:19.86
+ 2 files changed, 10 insertions(+)
+ create mode 100644 Python/Concepts/tree.py
+git: 'credential-manager-core' is not a git command. See 'git --help'.
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/harshakalluri1403/Code-Rituals.git        
+To https://github.com/harshakalluri1403/Leet-Code.git
+   14063cd..6552e66  master -> master
+Sync completed on 02-11-2024 22:07:21.98 
+Starting Git Sync on 04-11-2024 12:47:57.81 
