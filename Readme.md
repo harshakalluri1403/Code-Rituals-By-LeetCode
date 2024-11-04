@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode questions, which I have solved and automatically pushed using **Leethubv3**. I aim to solve all the problems available on the platform.
+Welcome to my LeetCode solutions repository! This project contains my solutions to various LeetCode questions, which I have solved and automatically pushed using **Leethubv3**. I aim to solve all the problems available on the platform.
 
 ## Languages Used
 
@@ -20,24 +20,4 @@ Feel free to fork the repository and submit a pull request if you have suggestio
 
 ## License
 
-MIT License
-
-Copyright (c) 2024 Pavan Sri Harsha Kalluri
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This project is licensed under the [MIT License](https://github.com/harshakalluri1403/Code-Rituals-By-LeetCode/blob/d896884924549d6597a2027124c65fd07d4b55d6/LICENSE).
