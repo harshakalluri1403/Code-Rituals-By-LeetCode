@@ -1,6 +1,5 @@
 class Solution(object):
     def mySqrt(self, x):
-        # Edge cases: 0 and 1
         if x == 0 or x == 1:
             return x
         
