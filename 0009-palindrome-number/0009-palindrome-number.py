@@ -1,7 +1,4 @@
 class Solution(object):
     def isPalindrome(self, x):
-        if x==x[::-1]:
-            return true
-        else:
-            return false
-        
+        # Convert the integer to a string and check if it's equal to its reverse
+        return str(x) == str(x)[::-1]
