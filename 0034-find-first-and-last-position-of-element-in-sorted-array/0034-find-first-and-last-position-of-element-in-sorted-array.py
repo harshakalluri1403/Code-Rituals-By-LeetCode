@@ -1,6 +1,8 @@
 class Solution(object):
     def searchRange(self, nums, target):
         result=[-1,-1]
+        if not nums:
+            return result
         for i in range(len(nums)):
             if nums[i]==target:
                 if result[0]==-1:
