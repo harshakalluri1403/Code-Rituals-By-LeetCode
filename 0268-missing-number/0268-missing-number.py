@@ -1,8 +1,6 @@
 class Solution(object):
     def missingNumber(self, nums):
-        n=len(nums)
-        expected=n*(n+1)//2
+        length=len(nums)
+        expected=length*(length+1)//2
         actual=sum(nums)
-        return expected-actual
-
-        
+        return expected-actual    
