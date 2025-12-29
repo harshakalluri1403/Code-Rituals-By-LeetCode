@@ -1,12 +1,9 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        num_to_index = {} 
-        
-        for index, num in enumerate(nums):
-            complement = target - num  # Calculate the required complement
-            
-            if complement in num_to_index:  # Check if the complement is in the dictionary
-                return [num_to_index[complement], index]  # Return the indices of the complement and the current number
-            
-            num_to_index[num] = index 
-        
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        sum=0
+        for i in range(len(nums)-1):
+            for j in range(i+1, len(nums)):
+                if target-nums[i]==nums[j]:
+                    return i,j
+
+
