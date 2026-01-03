@@ -1,3 +1,7 @@
-class Solution(object):
-    def missingNumber(self, nums):
-        return sum(range(len(nums)+1)) - sum(nums)
+class Solution:
+    def missingNumber(self, nums: List[int]) -> int:
+        nums.sort()
+        n=len(nums)
+        exp=n*(n+1)//2
+        add=sum(nums)
+        return exp-add
